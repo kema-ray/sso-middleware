@@ -95,6 +95,6 @@ The server provides appropriate HTTP status codes and error messages for various
 
 ---
 
-## License
+<!-- ## License
 
-[Add your license information here]
+[Add your license information here] -->
